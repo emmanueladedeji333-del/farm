@@ -1,0 +1,11 @@
+:root{
+    /* Shared color palette for the site */
+    --accent-green: #198238; /* primary action / accents */
+    --dark-green: #1b6933;   /* headings, strong green */
+    --green-strong: #2e7d32; /* emphasized positive */
+    --gold: #ffd700;         /* call-to-action / highlights */
+    --cream: #f7f3ea;        /* card background */
+    --footer-bg: #111;       /* footer background */
+    --light-green: #d0f8db;  /* secondary button */
+    --text-dark: #222;
+}
